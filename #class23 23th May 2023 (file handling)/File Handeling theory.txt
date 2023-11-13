@@ -1,0 +1,19 @@
+File Handeling:
+--------------------
+1) .Docx
+2) .jpg
+3) .mps
+
+Operation:
+-------------
+open
+create
+read
+writting
+close
+delete
+
+syntax:
+---------
+fopen() :- open the file
+fclose() :- for close the file

@@ -1,0 +1,26 @@
+Function: It is a self-contained block of program statements or core that perform specific tasks. 
+
+notation: ( )
+
+Types:
+
+a. Predefined: these are defined in the header file by other developers
+eg:- scanf(), printf().
+
+b. User defined: which are defined and created by the user.
+(i) calling function
+(ii) called function
+
+#IMP Points:
+
+1. Function prototype:: Skeketon of function(defined which type of function is)
+    RT FN (list of arguments)
+  syntax: void add (int, int)
+
+2. Function call/invoking:: call the function to use in the program.
+
+syntax: 
+
+3. Function definition:
+     (a) Body: 
+
